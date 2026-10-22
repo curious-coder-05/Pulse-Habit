@@ -1,4 +1,4 @@
-# ⚡ PulseHabit Pro
+# ⚡ PulseHabit
 
 A high-performance, mobile-first Progressive Web App (PWA) designed for frictionless daily habit tracking, deep-work session logging, and cross-device telemetry. Built with zero build steps, vanilla web standards, and optional Supabase cloud persistence.
 
