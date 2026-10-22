@@ -1,0 +1,1 @@
+{"name":"PulseHabit","short_name":"PulseHabit","description":"Flexible habit tracking that forgives a bad day.","start_url":"./","scope":"./","display":"standalone","orientation":"portrait","background_color":"#0e1320","theme_color":"#0e1320","categories":["productivity","health"],"icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
