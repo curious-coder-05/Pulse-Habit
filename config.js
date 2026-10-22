@@ -1,2 +1,2 @@
 // Fill these two lines in AFTER you finish Part 2 of SETUP.md. Leave empty to run without cloud sync.
-window.PH_CONFIG={SUPABASE_URL:'https://ydbgedsxhhtgxxauwsyx.supabase.co/rest/v1/',SUPABASE_ANON_KEY:'sb_publishable_i-FteYCLLNo8HsWH-NbRvQ_4HCi0GfQ'};
+window.PH_CONFIG={SUPABASE_URL:'https://ydbgedsxhhtgxxauwsyx.supabase.co/rest/v1/',SUPABASE_ANON_KEY:'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlkYmdlZHN4aGh0Z3h4YXV3c3l4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTI2NjU5NzEsImV4cCI6MjEwODI0MTk3MX0.s_JLsAOPPHGYthf_f2Z-g7ZdecT1XujQLZyeBL-dxMI'};
